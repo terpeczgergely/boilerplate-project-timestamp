@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/terpeczgergely/freecodecamp-timestamping-microservice"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
